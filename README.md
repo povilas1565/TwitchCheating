@@ -74,7 +74,7 @@ Before starting, you will need to have [Git](https://git-scm.com) and [Python3](
 
 ```bash
 # Clone this project
-$ git clone https://github.com/зщмшдфы1565/TwitchCheating
+$ git clone https://github.com/povilas1565/TwitchCheating
 
 # Access
 $ cd twitch-miner-compiled
